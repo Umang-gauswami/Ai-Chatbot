@@ -1,0 +1,28 @@
+Question,Answer
+What was the total number of bookings?,"The total bookings were 103,024."
+What was the total booking value?,The total booking value was 35M.
+What was the average fare per ride?,The average fare per ride was ₹337.18.
+What percentage of rides were successful?,Around 62.09% of bookings were successful.
+What percentage of rides were cancelled?,28.08% of rides were cancelled.
+What was the average trip distance?,The average trip distance was 13.6 KM.
+What was the average trip duration?,The average trip duration was 32 minutes.
+Which payment method contributed the most revenue?,"Cash was the top payment method, contributing close to 20M in booking value."
+Which is the top customer by booking value?,"Customer ID CID785112 spent the highest, with 8025 in booking value."
+Which vehicle type generated the highest total booking value?,Prime Sedan generated the highest booking value of 8.30M.
+Which vehicle type had the highest average fare?,Prime Sedan had the highest average fare of ₹465.
+Which vehicle type had the most rides?,"Mini had the highest number of rides with 23,424 bookings."
+Which vehicle type has the best customer rating?,Prime Plus has the highest average customer rating at 4.01.
+What was the highest revenue day?,The highest revenue day was 21st July 2024.
+Which city contributed the most to revenue?,Bangalore contributed the most to total booking value.
+What is the revenue trend over time?,Revenue generally increased mid-month with peaks during weekends.
+What is the overall cancellation rate?,The cancellation rate was 28.08%.
+What is the most common customer cancellation reason?,The most common customer reason was 'Driver is not moving to pickup point (30.24%)'.
+What is the most common driver cancellation reason?,The most common driver reason was 'Personal & Car related (35.49%)'.
+Which vehicle type had the highest cancellations?,Micro had the highest cancellation percentage among all vehicle types.
+What is the average customer rating?,The average customer rating is 3.77.
+What is the average driver rating?,The average driver rating is 4.43.
+Which vehicle type has the lowest customer rating?,Micro has the lowest customer rating with an average of 3.52.
+Which vehicle type has the highest driver rating?,Prime Sedan has the highest driver rating of 4.53.
+When are peak booking hours?,Peak booking hours are during evening time slots between 6 PM - 9 PM.
+What insights can we draw from cancellations?,High cancellations are mainly due to driver-related issues and delays in reaching pickup points.
+What insights can we draw from customer ratings?,Customers prefer premium rides like Prime Plus due to higher comfort and reliability.
